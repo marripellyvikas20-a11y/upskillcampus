@@ -1,7 +1,7 @@
 """
 Banking Information System
 Python Internship Project - UpskillCampus
-Student: Vikas
+Student: Marripelly Vikas
 
 A console-based banking application demonstrating:
 - Account creation
